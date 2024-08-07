@@ -1,0 +1,1 @@
+"""Por enquanto esse repositório serve apenas para trabalho conjunto. Ainda não tem código algum. Estamos vendo primeiro como integrar Excel com Python."""
